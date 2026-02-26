@@ -1,0 +1,9 @@
+Dicionario={
+    'Nome':"Ana",
+    'Idade':"18",
+    'Matricula':"1234",
+}
+Dicionario["Idade"]=18
+print(Dicionario["Nome"])
+print(Dicionario["Idade"])
+print(Dicionario["Matricula"])

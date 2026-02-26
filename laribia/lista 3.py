@@ -1,0 +1,9 @@
+Lista=["Maçã","Laranja","Morango","Abacaxi"]
+print(Lista)
+print(len(Lista))
+Lista=["Luciano","Márcia","Larissa"]
+print(Lista)
+print(len(Lista))
+Lista=["1","3","9","10","45","34455"]
+print(Lista)
+print(len(Lista))

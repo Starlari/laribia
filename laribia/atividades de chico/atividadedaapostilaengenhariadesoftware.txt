@@ -1,0 +1,21 @@
+9. EXERCÍCIOS DE FIXAÇÃO
+Exercício 1 – Conceitual
+Explique com suas próprias palavras o que é Engenharia de Software
+
+É a área da tecnologia que aplica várias integrações ao mesmo tempo em uma única ciência. Ela aplica processos, engenharia, brainstomrs e entre outras áreas do conhecimento.
+
+Exercício 2 – Comparação
+Explique a diferença entre programar e aplicar Engenharia de Software.
+
+Enquanto a programação foca unicamente nos códigos, a engenharia de software aplica várias princípios como um todo. Uma grande diferença entre ambos também, é que todos os problemas que acontecem na programação são solucionados diretamente, já a engenharia de software, busca resolver os problemas encontrados com base nos feedbacks dos clientes.
+
+Exercício 3 – Análise
+Escolha um sistema que você utiliza no dia a dia e cite dois problemas que poderiam ser
+evitados com Engenharia de Software.
+
+O Gacha Club. Problemas como bugs frequentes, falta de atualizações e descomprometimento com o software, todos os problemas que esse aplicativo passa podem ser evitados com a aplicação de engenharia de software.
+
+Exercício 4 – PBL
+Descreva o problema principal que o sistema SIGEP pretende resolver.
+
+Entender o problema atual, melhorar a qualidade de uso do sistema para os clientes, liberdade criativa na criação do software e prentende se comprometer com o software a longo prazo.

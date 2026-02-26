@@ -1,0 +1,11 @@
+Contatos={
+    'Nome':"Lari",
+    'Idade':"16",
+    'Curso':"Sistemas",
+}
+Contatos["Idade"]=18
+Contatos["Matrícula"]=10203040
+print(Contatos["Nome"])
+print(Contatos["Idade"])
+print(Contatos["Curso"])
+print(Contatos)

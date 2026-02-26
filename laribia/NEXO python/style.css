@@ -1,0 +1,3702 @@
+/* Primeira tela */
+
+position: absolute;
+width: 1920px;
+height: 1080px;
+
+background: #E1F5FF;
+
+
+/* Tela de opção de cadastro */
+
+position: absolute;
+width: 1920px;
+height: 1080px;
+
+background: #E1F5FF;
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 1150px;
+height: 800px;
+
+background: #DFFFE4;
+border-radius: 20px;
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 760px;
+height: 800px;
+
+background: #6FA576;
+border-radius: 30px;
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 327px;
+height: 800px;
+
+background: #DFFFE4;
+
+
+/* Bem vindo(a)! */
+
+position: absolute;
+width: 410px;
+height: 108px;
+
+font-family: 'Konkhmer Sleokchher';
+font-style: normal;
+font-weight: 400;
+font-size: 60px;
+line-height: 108px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Já possuí uma conta? Faça seu login abaixo. */
+
+position: absolute;
+width: 432px;
+height: 88px;
+
+font-family: 'Lao Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 44px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Frame 8 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px;
+gap: 10px;
+
+position: relative;
+width: 267px;
+height: 64px;
+
+border: 1px solid #FFFFFF;
+border-radius: 20px;
+
+
+/* Logar-se */
+
+width: 247px;
+height: 44px;
+
+font-family: 'Lao Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 44px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Faça seu cadastro */
+
+position: absolute;
+width: 627px;
+height: 126px;
+
+font-family: 'Konkhmer Sleokchher';
+font-style: normal;
+font-weight: 400;
+font-size: 70px;
+line-height: 126px;
+text-align: center;
+
+color: #6FA576;
+
+
+
+/* Rectangle 13 */
+
+position: absolute;
+width: 767px;
+height: 78px;
+
+background: #ABD8B1;
+border-radius: 10px;
+
+
+/* Rectangle 11 */
+
+position: absolute;
+width: 767px;
+height: 78px;
+
+background: #ABD8B1;
+border-radius: 10px;
+
+
+/* Rectangle 12 */
+
+position: absolute;
+width: 767px;
+height: 78px;
+
+background: #ABD8B1;
+border-radius: 10px;
+
+
+/* Frame 9 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px;
+gap: 10px;
+
+position: relative;
+width: 302px;
+height: 54px;
+
+background: #6FA576;
+border-radius: 15px;
+
+
+/* Fazer cadastro */
+
+width: 238px;
+height: 44px;
+
+font-family: 'Lao Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 44px;
+/* identical to box height */
+text-align: center;
+
+color: #DFFFE4;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Nome */
+
+position: absolute;
+width: 86px;
+height: 38px;
+
+font-family: 'Lao Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 38px;
+/* identical to box height */
+text-align: center;
+
+color: #DFFFE4;
+
+
+
+/* Telefone */
+
+position: absolute;
+width: 121px;
+height: 38px;
+
+font-family: 'Lao Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 38px;
+/* identical to box height */
+text-align: center;
+
+color: #DFFFE4;
+
+
+
+/* call_1062678 1 */
+
+position: absolute;
+width: 42px;
+height: 42px;
+
+background: url(call_1062678.png);
+
+
+/* Confirmar senha */
+
+position: absolute;
+width: 235px;
+height: 38px;
+
+font-family: 'Lao Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 38px;
+/* identical to box height */
+text-align: center;
+
+color: #DFFFE4;
+
+
+
+/* Rectangle 14 */
+
+position: absolute;
+width: 767px;
+height: 78px;
+
+background: #ABD8B1;
+border-radius: 10px;
+
+
+/* Email */
+
+position: absolute;
+width: 77px;
+height: 38px;
+
+font-family: 'Lao Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 38px;
+/* identical to box height */
+text-align: center;
+
+color: #DFFFE4;
+
+
+
+/* ellipsis (1) 1 */
+
+position: absolute;
+width: 42px;
+height: 42px;
+
+background: url(ellipsis (1).png);
+
+
+/* mail_415166 3 */
+
+position: absolute;
+width: 42px;
+height: 42px;
+
+background: url(mail_415166.png);
+
+
+/* Rectangle 15 */
+
+position: absolute;
+width: 767px;
+height: 78px;
+
+background: #ABD8B1;
+border-radius: 10px;
+
+
+/* Senha */
+
+position: absolute;
+width: 88px;
+height: 38px;
+
+font-family: 'Lao Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 38px;
+/* identical to box height */
+text-align: center;
+
+color: #DFFFE4;
+
+
+
+/* padlock_444457 5 */
+
+position: absolute;
+width: 42px;
+height: 42px;
+
+background: url(padlock_444457.png);
+
+
+/* padlock_444457 4 */
+
+position: absolute;
+width: 42px;
+height: 42px;
+
+background: url(padlock_444457.png);
+
+
+/* Rectangle 16 */
+
+position: absolute;
+width: 1150px;
+height: 800px;
+
+background: #DFFFE4;
+border-radius: 20px;
+
+
+/* Rectangle 17 */
+
+position: absolute;
+width: 760px;
+height: 800px;
+
+background: #6FA576;
+border-radius: 30px;
+
+
+/* Rectangle 18 */
+
+position: absolute;
+width: 327px;
+height: 800px;
+
+background: #DFFFE4;
+
+
+/* Bem vindo(a)! */
+
+position: absolute;
+width: 401px;
+height: 84px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 70px;
+line-height: 84px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Já possuí uma conta? Faça seu login abaixo. */
+
+position: absolute;
+width: 432px;
+height: 88px;
+
+font-family: 'Lao Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 44px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Frame 10 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px;
+gap: 10px;
+
+position: relative;
+width: 267px;
+height: 64px;
+
+border: 1px solid #FFFFFF;
+border-radius: 20px;
+
+
+/* Logar-se */
+
+width: 247px;
+height: 44px;
+
+font-family: 'Lao Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 44px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Faça seu cadastro */
+
+position: absolute;
+width: 608px;
+height: 96px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 80px;
+line-height: 96px;
+/* identical to box height */
+text-align: center;
+
+color: #6FA576;
+
+
+
+/* ret 1 */
+
+position: absolute;
+width: 767px;
+height: 78px;
+
+background: #ABD8B1;
+border-radius: 10px;
+
+
+/* ret 2 */
+
+position: absolute;
+width: 767px;
+height: 78px;
+
+background: #ABD8B1;
+border-radius: 10px;
+
+
+/* ret 3 */
+
+position: absolute;
+width: 767px;
+height: 78px;
+
+background: #ABD8B1;
+border-radius: 10px;
+
+
+/* ret 4 */
+
+position: absolute;
+width: 767px;
+height: 78px;
+
+background: #ABD8B1;
+border-radius: 10px;
+
+
+/* ret 5 */
+
+position: absolute;
+width: 767px;
+height: 78px;
+
+background: #ABD8B1;
+border-radius: 10px;
+
+
+/* Nome */
+
+position: absolute;
+width: 86px;
+height: 38px;
+
+font-family: 'Lao Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 38px;
+/* identical to box height */
+text-align: center;
+
+color: #DFFFE4;
+
+
+
+/* Email */
+
+position: absolute;
+width: 77px;
+height: 38px;
+
+font-family: 'Lao Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 38px;
+/* identical to box height */
+text-align: center;
+
+color: #DFFFE4;
+
+
+
+/* Telefone */
+
+position: absolute;
+width: 121px;
+height: 38px;
+
+font-family: 'Lao Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 38px;
+/* identical to box height */
+text-align: center;
+
+color: #DFFFE4;
+
+
+
+/* Senha */
+
+position: absolute;
+width: 88px;
+height: 38px;
+
+font-family: 'Lao Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 38px;
+/* identical to box height */
+text-align: center;
+
+color: #DFFFE4;
+
+
+
+/* Confirmar senha */
+
+position: absolute;
+width: 235px;
+height: 38px;
+
+font-family: 'Lao Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 38px;
+/* identical to box height */
+text-align: center;
+
+color: #DFFFE4;
+
+
+
+/* ellipsis (1) 2 */
+
+position: absolute;
+width: 42px;
+height: 42px;
+
+background: url(ellipsis (1).png);
+
+
+/* mail_415166 4 */
+
+position: absolute;
+width: 42px;
+height: 42px;
+
+background: url(mail_415166.png);
+
+
+/* call_1062678 2 */
+
+position: absolute;
+width: 42px;
+height: 42px;
+
+background: url(call_1062678.png);
+
+
+/* padlock_444457 6 */
+
+position: absolute;
+width: 42px;
+height: 42px;
+
+background: url(padlock_444457.png);
+
+
+/* padlock_444457 7 */
+
+position: absolute;
+width: 42px;
+height: 42px;
+
+background: url(padlock_444457.png);
+
+
+/* Frame 11 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px;
+gap: 10px;
+
+position: relative;
+width: 302px;
+height: 54px;
+
+background: #6FA576;
+border-radius: 15px;
+
+
+/* Fazer cadastro */
+
+width: 238px;
+height: 44px;
+
+font-family: 'Lao Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 44px;
+/* identical to box height */
+text-align: center;
+
+color: #DFFFE4;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Cadastro PC (Pessoa Comum) */
+
+position: absolute;
+width: 1920px;
+height: 1080px;
+
+background: #E1F5FF;
+
+
+/* Rectangle 24 */
+
+position: absolute;
+width: 1150px;
+height: 800px;
+
+background: #DFFFE4;
+border-radius: 20px;
+
+
+/* Rectangle 25 */
+
+position: absolute;
+width: 1750px;
+height: 800px;
+
+background: #6FA576;
+border-radius: 30px;
+
+
+/* Insira o email do(a) coordenador(a) da biblioteca aqui para a validação do seu cadastro. */
+
+position: absolute;
+width: 565px;
+height: 144px;
+
+font-family: 'Lao Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 48px;
+/* or 137% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Clique aqui para seguir em frente e continuar seu acesso normalmente. */
+
+position: absolute;
+width: 565px;
+height: 144px;
+
+font-family: 'Lao Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 48px;
+/* or 137% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Se você é monitor(a): */
+
+position: absolute;
+width: 623px;
+height: 84px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 70px;
+line-height: 84px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Se você é leitor(a): */
+
+position: absolute;
+width: 546px;
+height: 84px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 70px;
+line-height: 84px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Cadastro M (Monitor) */
+
+position: absolute;
+width: 1920px;
+height: 1080px;
+
+background: #E1F5FF;
+
+
+/* Cadastro CB (Coordenação da Biblioteca) */
+
+position: absolute;
+width: 1920px;
+height: 1080px;
+
+background: #E1F5FF;
+
+
+/* Início */
+
+position: absolute;
+width: 153px;
+height: 84px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 70px;
+line-height: 84px;
+/* identical to box height */
+text-align: center;
+
+color: #1E1E1E;
+
+
+
+/* Retirada */
+
+position: absolute;
+width: 247px;
+height: 84px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 70px;
+line-height: 84px;
+/* identical to box height */
+text-align: center;
+
+color: #1E1E1E;
+
+
+
+/* Devoluções */
+
+position: absolute;
+width: 334px;
+height: 84px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 70px;
+line-height: 84px;
+/* identical to box height */
+text-align: center;
+
+color: #1E1E1E;
+
+
+
+/* Comunidade */
+
+position: absolute;
+width: 360px;
+height: 108px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 70px;
+line-height: 84px;
+text-align: center;
+
+color: #1E1E1E;
+
+
+
+/* título da página 5 */
+
+position: absolute;
+width: 816px;
+height: 816px;
+
+background: url(título da página.png);
+
+
+/* VOCÊ SABIA? */
+
+position: absolute;
+width: 873px;
+height: 172px;
+
+font-family: 'Myanmar Khyay';
+font-style: normal;
+font-weight: 400;
+font-size: 128px;
+line-height: 172px;
+text-align: center;
+
+color: #508699;
+
+
+
+/* "Dom Quixote" é o terceiro livro mais traduzido no mundo. Tendo ficado em primeiro a Bíblia e, em segundo, as obras completas de Lenine. No entanto, é o livro de ficção mais vendido de sempre. */
+
+position: absolute;
+width: 1209px;
+height: 192px;
+
+font-family: 'Lao Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 48px;
+/* or 96% */
+text-align: center;
+
+color: #6FA576;
+
+
+
+/* Cadastro G (Gestor) */
+
+position: absolute;
+width: 1920px;
+height: 1305px;
+
+background: #E1F5FF;
+
+
+/* Rectangle 26 */
+
+position: absolute;
+width: 1750px;
+height: 692px;
+
+background: #6FA576;
+border-radius: 30px;
+
+
+/* letter-x_16083460 1 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+
+background: url(letter-x_16083460.png);
+
+
+/* Título: Dom Quixote */
+
+position: absolute;
+width: 501px;
+height: 72px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 60px;
+line-height: 72px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Autor: Miguel de Cervantes */
+
+position: absolute;
+width: 507px;
+height: 54px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 54px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Dom Quixoteé a história de Alonso Quixano, um fidalgo que enlouquece após ler muitos livros de cavalaria e decide se tornar o cavaleiro andante Dom Quixote de La Mancha. Ele parte em busca de aventuras com seu cavalo, Rocinante, e seu fiel escudeiro, Sancho Pança, para lutar por ideais e por sua dama imaginária, Dulcineia de Toboso. */
+
+position: absolute;
+width: 829px;
+height: 216px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Disponível */
+
+position: absolute;
+width: 192px;
+height: 54px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 54px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Dom Quixote - Miguel de Cervantes 1 */
+
+position: absolute;
+width: 169px;
+height: 256px;
+
+background: url(Dom Quixote - Miguel de Cervantes);
+filter: drop-shadow(-4px 4px 4px rgba(0, 0, 0, 0.5));
+
+
+/* título da página 6 */
+
+position: absolute;
+width: 816px;
+height: 816px;
+
+background: url(título da página.png);
+
+
+/* Tela de Início (PC) */
+
+position: absolute;
+width: 1920px;
+height: 1080px;
+
+background: #E1F5FF;
+
+
+/* 2 */
+
+position: absolute;
+width: 28px;
+height: 72px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 60px;
+line-height: 72px;
+/* identical to box height */
+
+color: #1E1E1E;
+
+
+
+/* título da página 7 */
+
+position: absolute;
+width: 816px;
+height: 816px;
+
+background: url(título da página.png);
+
+
+/* Tela de Início (M) */
+
+position: absolute;
+width: 1920px;
+height: 1080px;
+
+background: #E1F5FF;
+
+
+/* título da página 8 */
+
+position: absolute;
+width: 816px;
+height: 816px;
+
+background: url(título da página.png);
+
+
+/* Tela de Início (CB)  */
+
+position: absolute;
+width: 1920px;
+height: 4104px;
+
+background: #E1F5FF;
+
+
+/* título da página 9 */
+
+position: absolute;
+width: 816px;
+height: 816px;
+
+background: url(título da página.png);
+
+
+/* Tela de Início (G) */
+
+position: absolute;
+width: 1920px;
+height: 1080px;
+
+background: #E1F5FF;
+
+
+/* logo_projeto-removebg-preview 1 */
+
+position: absolute;
+width: 138px;
+height: 138px;
+
+background: url(logo_projeto-removebg-preview.png);
+
+
+/* logo_projeto-removebg-preview 2 */
+
+position: absolute;
+width: 138px;
+height: 138px;
+
+background: url(logo_projeto-removebg-preview.png);
+
+
+/* logo_projeto-removebg-preview 3 */
+
+position: absolute;
+width: 138px;
+height: 138px;
+
+background: url(logo_projeto-removebg-preview.png);
+
+
+/* logo_projeto-removebg-preview 5 */
+
+position: absolute;
+width: 138px;
+height: 138px;
+
+background: url(logo_projeto-removebg-preview.png);
+
+
+/* logo_projeto-removebg-preview 6 */
+
+position: absolute;
+width: 138px;
+height: 138px;
+
+background: url(logo_projeto-removebg-preview.png);
+
+
+/* logo_projeto-removebg-preview 7 */
+
+position: absolute;
+width: 138px;
+height: 138px;
+
+background: url(logo_projeto-removebg-preview.png);
+
+
+/* logo_projeto-removebg-preview 8 */
+
+position: absolute;
+width: 138px;
+height: 138px;
+
+background: url(logo_projeto-removebg-preview.png);
+
+
+/* logo_projeto-removebg-preview 9 */
+
+position: absolute;
+width: 138px;
+height: 138px;
+
+background: url(logo_projeto-removebg-preview.png);
+
+
+/* logo_projeto-removebg-preview 10 */
+
+position: absolute;
+width: 138px;
+height: 138px;
+
+background: url(logo_projeto-removebg-preview.png);
+
+
+/* título da página 2 */
+
+position: absolute;
+width: 816px;
+height: 816px;
+
+background: url(título da página.png);
+
+
+/* título da página 3 */
+
+position: absolute;
+width: 816px;
+height: 816px;
+
+background: url(título da página.png);
+
+
+/* título da página 10 */
+
+position: absolute;
+width: 816px;
+height: 816px;
+
+background: url(título da página.png);
+
+
+/* Tela de Início (G) */
+
+position: absolute;
+width: 1920px;
+height: 1080px;
+
+background: #E1F5FF;
+
+
+/* logo_projeto-removebg-preview 11 */
+
+position: absolute;
+width: 138px;
+height: 138px;
+
+background: url(logo_projeto-removebg-preview.png);
+
+
+/* título da página 13 */
+
+position: absolute;
+width: 816px;
+height: 816px;
+
+background: url(título da página.png);
+
+
+/* Tela de Início (G) */
+
+position: absolute;
+width: 1920px;
+height: 1080px;
+
+background: #E1F5FF;
+
+
+/* logo_projeto-removebg-preview 12 */
+
+position: absolute;
+width: 138px;
+height: 138px;
+
+background: url(logo_projeto-removebg-preview.png);
+
+
+/* título da página 14 */
+
+position: absolute;
+width: 816px;
+height: 816px;
+
+background: url(título da página.png);
+
+
+/* Tela de Início (G) */
+
+position: absolute;
+width: 1920px;
+height: 1080px;
+
+background: #E1F5FF;
+
+
+/* logo_projeto-removebg-preview 13 */
+
+position: absolute;
+width: 138px;
+height: 138px;
+
+background: url(logo_projeto-removebg-preview.png);
+
+
+/* título da página 15 */
+
+position: absolute;
+width: 816px;
+height: 816px;
+
+background: url(título da página.png);
+
+
+/* Tela de Início (G) */
+
+position: absolute;
+width: 1920px;
+height: 1080px;
+
+background: #E1F5FF;
+
+
+/* logo_projeto-removebg-preview 14 */
+
+position: absolute;
+width: 138px;
+height: 138px;
+
+background: url(logo_projeto-removebg-preview.png);
+
+
+/* título da página 16 */
+
+position: absolute;
+width: 816px;
+height: 816px;
+
+background: url(título da página.png);
+
+
+/* Tela de Início (G) */
+
+position: absolute;
+width: 1920px;
+height: 1080px;
+
+background: #E1F5FF;
+
+
+/* logo_projeto-removebg-preview 15 */
+
+position: absolute;
+width: 138px;
+height: 138px;
+
+background: url(logo_projeto-removebg-preview.png);
+
+
+/* título da página 17 */
+
+position: absolute;
+width: 816px;
+height: 816px;
+
+background: url(título da página.png);
+
+
+/* Tela de Início (G) */
+
+position: absolute;
+width: 1920px;
+height: 1080px;
+
+background: #E1F5FF;
+
+
+/* logo_projeto-removebg-preview 16 */
+
+position: absolute;
+width: 138px;
+height: 138px;
+
+background: url(logo_projeto-removebg-preview.png);
+
+
+/* título da página 18 */
+
+position: absolute;
+width: 816px;
+height: 816px;
+
+background: url(título da página.png);
+
+
+/* título da página 11 */
+
+position: absolute;
+width: 816px;
+height: 816px;
+
+background: url(título da página.png);
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 1150px;
+height: 800px;
+
+background: #DFFFE4;
+border-radius: 20px;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 760px;
+height: 800px;
+
+background: #6FA576;
+border-radius: 30px;
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 327px;
+height: 800px;
+
+background: #DFFFE4;
+
+
+/* Bem vindo(a)! */
+
+position: absolute;
+width: 401px;
+height: 84px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 70px;
+line-height: 84px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* É novo aqui? Faça seu cadastro abaixo. */
+
+position: absolute;
+width: 432px;
+height: 88px;
+
+font-family: 'Lao Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 44px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Frame 6 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px;
+gap: 10px;
+
+position: relative;
+width: 267px;
+height: 64px;
+
+border: 1px solid #FFFFFF;
+border-radius: 20px;
+
+
+/* Cadastre-se */
+
+width: 247px;
+height: 44px;
+
+font-family: 'Lao Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 44px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Faça seu login */
+
+position: absolute;
+width: 466px;
+height: 96px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 80px;
+line-height: 96px;
+/* identical to box height */
+text-align: center;
+
+color: #6FA576;
+
+
+
+/* google_299386 1 */
+
+position: absolute;
+width: 72px;
+height: 72px;
+
+background: url(google_299386.png);
+
+
+/* Ou use seu email para fazer o login */
+
+position: absolute;
+width: 566px;
+height: 44px;
+
+font-family: 'Lao Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 44px;
+/* identical to box height */
+text-align: center;
+
+color: #6FA576;
+
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 767px;
+height: 78px;
+
+background: #ABD8B1;
+border-radius: 10px;
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 767px;
+height: 78px;
+
+background: #ABD8B1;
+border-radius: 10px;
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 767px;
+height: 78px;
+
+background: #ABD8B1;
+border-radius: 10px;
+
+
+/* Frame 7 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px;
+gap: 10px;
+
+position: relative;
+width: 253px;
+height: 54px;
+
+background: #6FA576;
+border-radius: 15px;
+
+
+/* Fazer login */
+
+width: 178px;
+height: 44px;
+
+font-family: 'Lao Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 44px;
+/* identical to box height */
+text-align: center;
+
+color: #DFFFE4;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Email */
+
+position: absolute;
+width: 77px;
+height: 38px;
+
+font-family: 'Lao Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 38px;
+/* identical to box height */
+text-align: center;
+
+color: #DFFFE4;
+
+
+
+/* Senha */
+
+position: absolute;
+width: 88px;
+height: 38px;
+
+font-family: 'Lao Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 38px;
+/* identical to box height */
+text-align: center;
+
+color: #DFFFE4;
+
+
+
+/* Confirmar senha */
+
+position: absolute;
+width: 235px;
+height: 38px;
+
+font-family: 'Lao Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 38px;
+/* identical to box height */
+text-align: center;
+
+color: #DFFFE4;
+
+
+
+/* padlock_444457 1 */
+
+position: absolute;
+width: 42px;
+height: 42px;
+
+background: url(padlock_444457.png);
+
+
+/* padlock_444457 2 */
+
+position: absolute;
+width: 42px;
+height: 42px;
+
+background: url(padlock_444457.png);
+
+
+/* international-literacy-day_12054705 1 */
+
+position: absolute;
+width: 340px;
+height: 340px;
+
+background: url(international-literacy-day_12054705.png);
+
+
+/* book_1164620 1 */
+
+position: absolute;
+width: 215px;
+height: 215px;
+
+background: url(book_1164620.png);
+
+
+/* question_13570031 1 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+
+background: url(question_13570031.png);
+
+
+/* menu_154336 1 */
+
+position: absolute;
+width: 64px;
+height: 64px;
+
+background: url(menu_154336.png);
+
+
+/* retangulo de pesquisa */
+
+position: absolute;
+width: 844px;
+height: 79px;
+
+background: rgba(80, 134, 152, 0.4);
+border-radius: 40px;
+
+
+/* ui-element_15768373 1 */
+
+position: absolute;
+width: 52px;
+height: 52px;
+
+background: url(ui-element_15768373.png);
+
+
+/* Pesquisar... */
+
+position: absolute;
+width: 224px;
+height: 60px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 60px;
+/* identical to box height */
+text-align: center;
+
+color: #1E1E1E;
+
+
+
+/* Comunidade */
+
+position: absolute;
+width: 360px;
+height: 108px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 70px;
+line-height: 84px;
+text-align: center;
+
+color: #1E1E1E;
+
+
+
+/* Line 1 */
+
+position: absolute;
+width: 165px;
+height: 0px;
+
+border: 5px solid #1E1E1E;
+
+
+/* Início */
+
+position: absolute;
+width: 153px;
+height: 84px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 70px;
+line-height: 84px;
+/* identical to box height */
+text-align: center;
+
+color: #1E1E1E;
+
+
+
+/* Retirada */
+
+position: absolute;
+width: 247px;
+height: 84px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 70px;
+line-height: 84px;
+/* identical to box height */
+text-align: center;
+
+color: #1E1E1E;
+
+
+
+/* Devoluções */
+
+position: absolute;
+width: 334px;
+height: 84px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 70px;
+line-height: 84px;
+/* identical to box height */
+text-align: center;
+
+color: #1E1E1E;
+
+
+
+/* Comunidade */
+
+position: absolute;
+width: 360px;
+height: 108px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 70px;
+line-height: 84px;
+text-align: center;
+
+color: #1E1E1E;
+
+
+
+/* retangulo de pesquisa */
+
+position: absolute;
+width: 844px;
+height: 79px;
+
+background: rgba(80, 134, 152, 0.4);
+border-radius: 40px;
+
+
+/* ui-element_15768373 3 */
+
+position: absolute;
+width: 52px;
+height: 52px;
+
+background: url(ui-element_15768373.png);
+
+
+/* Pesquisar... */
+
+position: absolute;
+width: 224px;
+height: 60px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 60px;
+/* identical to box height */
+text-align: center;
+
+color: #1E1E1E;
+
+
+
+/* Line 14 */
+
+position: absolute;
+width: 165px;
+height: 0px;
+
+border: 5px solid #1E1E1E;
+
+
+/* Início */
+
+position: absolute;
+width: 153px;
+height: 84px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 70px;
+line-height: 84px;
+/* identical to box height */
+text-align: center;
+
+color: #1E1E1E;
+
+
+
+/* Retirada */
+
+position: absolute;
+width: 247px;
+height: 84px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 70px;
+line-height: 84px;
+/* identical to box height */
+text-align: center;
+
+color: #1E1E1E;
+
+
+
+/* Line 3 */
+
+position: absolute;
+width: 265px;
+height: 0px;
+
+border: 5px solid #1E1E1E;
+
+
+/* Devoluções */
+
+position: absolute;
+width: 334px;
+height: 84px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 70px;
+line-height: 84px;
+/* identical to box height */
+text-align: center;
+
+color: #1E1E1E;
+
+
+
+/* Comunidade */
+
+position: absolute;
+width: 360px;
+height: 84px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 70px;
+line-height: 84px;
+/* identical to box height */
+text-align: center;
+
+color: #1E1E1E;
+
+
+
+/* Nome do(s) livro(s): */
+
+position: absolute;
+width: 548px;
+height: 82px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 68px;
+line-height: 82px;
+/* identical to box height */
+text-align: center;
+
+color: #508699;
+
+
+
+/* Quantidade de livro(s) que deseja: */
+
+position: absolute;
+width: 955px;
+height: 82px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 68px;
+line-height: 82px;
+/* identical to box height */
+text-align: center;
+
+color: #508699;
+
+
+
+/* título da página 12 */
+
+position: absolute;
+width: 816px;
+height: 816px;
+
+background: url(título da página.png);
+
+
+/* question_13570031 3 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+
+background: url(question_13570031.png);
+
+
+/* menu_154336 3 */
+
+position: absolute;
+width: 64px;
+height: 64px;
+
+background: url(menu_154336.png);
+
+
+/* question_13570031 4 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+
+background: url(question_13570031.png);
+
+
+/* menu_154336 4 */
+
+position: absolute;
+width: 64px;
+height: 64px;
+
+background: url(menu_154336.png);
+
+
+/* question_13570031 5 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+
+background: url(question_13570031.png);
+
+
+/* menu_154336 5 */
+
+position: absolute;
+width: 64px;
+height: 64px;
+
+background: url(menu_154336.png);
+
+
+/* question_13570031 6 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+
+background: url(question_13570031.png);
+
+
+/* menu_154336 6 */
+
+position: absolute;
+width: 64px;
+height: 64px;
+
+background: url(menu_154336.png);
+
+
+/* question_13570031 7 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+
+background: url(question_13570031.png);
+
+
+/* menu_154336 7 */
+
+position: absolute;
+width: 64px;
+height: 64px;
+
+background: url(menu_154336.png);
+
+
+/* question_13570031 8 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+
+background: url(question_13570031.png);
+
+
+/* menu_154336 8 */
+
+position: absolute;
+width: 64px;
+height: 64px;
+
+background: url(menu_154336.png);
+
+
+/* question_13570031 9 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+
+background: url(question_13570031.png);
+
+
+/* menu_154336 9 */
+
+position: absolute;
+width: 64px;
+height: 64px;
+
+background: url(menu_154336.png);
+
+
+/* question_13570031 10 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+
+background: url(question_13570031.png);
+
+
+/* menu_154336 10 */
+
+position: absolute;
+width: 64px;
+height: 64px;
+
+background: url(menu_154336.png);
+
+
+/* question_13570031 11 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+
+background: url(question_13570031.png);
+
+
+/* menu_154336 11 */
+
+position: absolute;
+width: 64px;
+height: 64px;
+
+background: url(menu_154336.png);
+
+
+/* question_13570031 12 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+
+background: url(question_13570031.png);
+
+
+/* menu_154336 12 */
+
+position: absolute;
+width: 64px;
+height: 64px;
+
+background: url(menu_154336.png);
+
+
+/* Início */
+
+position: absolute;
+width: 153px;
+height: 84px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 70px;
+line-height: 84px;
+/* identical to box height */
+text-align: center;
+
+color: #1E1E1E;
+
+
+
+/* Retirada */
+
+position: absolute;
+width: 247px;
+height: 84px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 70px;
+line-height: 84px;
+/* identical to box height */
+text-align: center;
+
+color: #1E1E1E;
+
+
+
+/* Devoluções */
+
+position: absolute;
+width: 334px;
+height: 84px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 70px;
+line-height: 84px;
+/* identical to box height */
+text-align: center;
+
+color: #1E1E1E;
+
+
+
+/* Comunidade */
+
+position: absolute;
+width: 360px;
+height: 108px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 70px;
+line-height: 84px;
+text-align: center;
+
+color: #1E1E1E;
+
+
+
+/* Line 5 */
+
+position: absolute;
+width: 384.01px;
+height: 0px;
+
+border: 5px solid #1E1E1E;
+transform: rotate(0.45deg);
+
+
+/* Início */
+
+position: absolute;
+width: 153px;
+height: 84px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 70px;
+line-height: 84px;
+/* identical to box height */
+text-align: center;
+
+color: #1E1E1E;
+
+
+
+/* Retirada */
+
+position: absolute;
+width: 247px;
+height: 84px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 70px;
+line-height: 84px;
+/* identical to box height */
+text-align: center;
+
+color: #1E1E1E;
+
+
+
+/* Devoluções */
+
+position: absolute;
+width: 334px;
+height: 84px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 70px;
+line-height: 84px;
+/* identical to box height */
+text-align: center;
+
+color: #1E1E1E;
+
+
+
+/* question_13570031 2 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+
+background: url(question_13570031.png);
+
+
+/* menu_154336 2 */
+
+position: absolute;
+width: 64px;
+height: 64px;
+
+background: url(menu_154336.png);
+
+
+/* retangulo de pesquisa */
+
+position: absolute;
+width: 844px;
+height: 79px;
+
+background: rgba(80, 134, 152, 0.4);
+border-radius: 40px;
+
+
+/* ui-element_15768373 2 */
+
+position: absolute;
+width: 52px;
+height: 52px;
+
+background: url(ui-element_15768373.png);
+
+
+/* Dom Quixote */
+
+position: absolute;
+width: 272px;
+height: 60px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 60px;
+/* identical to box height */
+text-align: center;
+
+color: #1E1E1E;
+
+
+
+/* Line 2 */
+
+position: absolute;
+width: 165px;
+height: 0px;
+
+border: 5px solid #1E1E1E;
+
+
+/* Rectangle 27 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 60px;
+height: 60px;
+
+border: 5px solid #BBFFC5;
+border-radius: 15px;
+
+
+/* Título: Dom Quixote ex: 01 */
+
+position: absolute;
+width: 643px;
+height: 72px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 60px;
+line-height: 72px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Autor: Miguel de Cervantes */
+
+position: absolute;
+width: 507px;
+height: 54px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 54px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Dom Quixoteé a história de Alonso Quixano, um fidalgo que enlouquece após ler muitos livros de cavalaria e decide se tornar o cavaleiro andante Dom Quixote de La Mancha. Ele parte em busca de aventuras com seu cavalo, Rocinante, e seu fiel escudeiro, Sancho Pança, para lutar por ideais e por sua dama imaginária, Dulcineia de Toboso. */
+
+position: absolute;
+width: 706px;
+height: 252px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Disponível */
+
+position: absolute;
+width: 192px;
+height: 54px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 54px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Dom Quixote - Miguel de Cervantes 2 */
+
+position: absolute;
+width: 169px;
+height: 256px;
+
+background: url(Dom Quixote - Miguel de Cervantes);
+filter: drop-shadow(-4px 4px 4px rgba(0, 0, 0, 0.5));
+
+
+/* Rectangle 28 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 60px;
+height: 60px;
+
+border: 5px solid #BBFFC5;
+border-radius: 15px;
+
+
+/* Rectangle 29 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 60px;
+height: 60px;
+
+border: 4px solid #4C6E7B;
+
+
+/* Rectangle 30 */
+
+position: absolute;
+width: 783px;
+height: 75px;
+
+background: #A7C9D6;
+
+
+/* Dom Quixote, Cortiço */
+
+position: absolute;
+width: 539px;
+height: 72px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 60px;
+line-height: 72px;
+/* identical to box height */
+
+color: #1E1E1E;
+
+
+
+/* Rectangle 31 */
+
+position: absolute;
+width: 272px;
+height: 64px;
+
+background: rgba(111, 165, 118, 0.6);
+
+
+/* Cancelar */
+
+position: absolute;
+width: 215px;
+height: 72px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 60px;
+line-height: 72px;
+/* identical to box height */
+
+color: #1E1E1E;
+
+
+
+/* Rectangle 32 */
+
+position: absolute;
+width: 209px;
+height: 64px;
+
+background: rgba(111, 165, 118, 0.6);
+
+
+/* Enviar */
+
+position: absolute;
+width: 150px;
+height: 72px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 60px;
+line-height: 72px;
+/* identical to box height */
+
+color: #1E1E1E;
+
+
+
+/* 2 */
+
+position: absolute;
+width: 28px;
+height: 72px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 60px;
+line-height: 72px;
+/* identical to box height */
+
+color: #1E1E1E;
+
+
+
+/* Início */
+
+position: absolute;
+width: 153px;
+height: 84px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 70px;
+line-height: 84px;
+/* identical to box height */
+text-align: center;
+
+color: #1E1E1E;
+
+
+
+/* Retirada */
+
+position: absolute;
+width: 247px;
+height: 84px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 70px;
+line-height: 84px;
+/* identical to box height */
+text-align: center;
+
+color: #1E1E1E;
+
+
+
+/* Line 6 */
+
+position: absolute;
+width: 359px;
+height: 0px;
+
+border: 5px solid #1E1E1E;
+
+
+/* Devoluções */
+
+position: absolute;
+width: 334px;
+height: 84px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 70px;
+line-height: 84px;
+/* identical to box height */
+text-align: center;
+
+color: #1E1E1E;
+
+
+
+/* Comunidade */
+
+position: absolute;
+width: 360px;
+height: 84px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 70px;
+line-height: 84px;
+/* identical to box height */
+text-align: center;
+
+color: #1E1E1E;
+
+
+
+/* Nome do(s) livro(s): */
+
+position: absolute;
+width: 548px;
+height: 82px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 68px;
+line-height: 82px;
+/* identical to box height */
+text-align: center;
+
+color: #508699;
+
+
+
+/* Quantidade de livro(s) para devolução: */
+
+position: absolute;
+width: 1076px;
+height: 82px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 68px;
+line-height: 82px;
+/* identical to box height */
+text-align: center;
+
+color: #508699;
+
+
+
+/* Rectangle 47 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 60px;
+height: 60px;
+
+border: 4px solid #4C6E7B;
+
+
+/* Rectangle 48 */
+
+position: absolute;
+width: 783px;
+height: 75px;
+
+background: #A7C9D6;
+
+
+/* Dom Quixote, Cortiço */
+
+position: absolute;
+width: 539px;
+height: 72px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 60px;
+line-height: 72px;
+/* identical to box height */
+
+color: #1E1E1E;
+
+
+
+/* Rectangle 49 */
+
+position: absolute;
+width: 272px;
+height: 64px;
+
+background: rgba(111, 165, 118, 0.6);
+
+
+/* Cancelar */
+
+position: absolute;
+width: 215px;
+height: 72px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 60px;
+line-height: 72px;
+/* identical to box height */
+
+color: #1E1E1E;
+
+
+
+/* Rectangle 50 */
+
+position: absolute;
+width: 209px;
+height: 64px;
+
+background: rgba(111, 165, 118, 0.6);
+
+
+/* Enviar */
+
+position: absolute;
+width: 150px;
+height: 72px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 60px;
+line-height: 72px;
+/* identical to box height */
+
+color: #1E1E1E;
+
+
+
+/* Rectangle 37 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 97px;
+height: 97px;
+
+border: 10px solid #508699;
+border-radius: 30px;
+
+
+/* Rectangle 38 */
+
+position: absolute;
+width: 9px;
+height: 67px;
+
+background: #508699;
+border-radius: 40px;
+
+
+/* Rectangle 39 */
+
+position: absolute;
+width: 9px;
+height: 67px;
+
+background: #508699;
+border-radius: 40px;
+transform: rotate(-90deg);
+
+
+/* Criar */
+
+position: absolute;
+width: 97px;
+height: 60px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 60px;
+/* identical to box height */
+text-align: center;
+
+color: #508699;
+
+
+
+/* Fulano de Tal */
+
+position: absolute;
+width: 311px;
+height: 70px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 58px;
+line-height: 70px;
+/* identical to box height */
+text-align: center;
+
+color: #1E1E1E;
+
+
+
+/* Há 1h atrás */
+
+position: absolute;
+width: 150px;
+height: 37px;
+
+font-family: 'Noto Sans Devanagari';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 37px;
+/* identical to box height */
+text-align: center;
+
+color: #1E1E1E;
+
+
+
+/* Há 2h atrás */
+
+position: absolute;
+width: 150px;
+height: 37px;
+
+font-family: 'Noto Sans Devanagari';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 37px;
+/* identical to box height */
+text-align: center;
+
+color: #1E1E1E;
+
+
+
+/* Há 3h atrás */
+
+position: absolute;
+width: 150px;
+height: 37px;
+
+font-family: 'Noto Sans Devanagari';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 37px;
+/* identical to box height */
+text-align: center;
+
+color: #1E1E1E;
+
+
+
+/* user_17740782 1 */
+
+position: absolute;
+width: 108px;
+height: 112px;
+
+background: url(user_17740782);
+
+
+/* Mask group */
+
+position: absolute;
+width: 1084px;
+height: 867px;
+
+
+
+/* Rectangle 40 */
+
+position: absolute;
+width: 1084px;
+height: 867px;
+
+background: #D9D9D9;
+border-radius: 20px;
+
+
+/* alguem segurando um livro ai 1 */
+
+position: absolute;
+width: 1221px;
+height: 917px;
+
+background: url(alguem segurando um livro ai);
+
+
+/* Meu livro está assim, gente. Caso possa ser doado, está aqui! */
+
+position: absolute;
+width: 904px;
+height: 110px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 55px;
+/* or 110% */
+text-align: center;
+
+color: #4C6E7B;
+
+
+
+/* Esse livro é muito bom! Recomendo para todo mundo. */
+
+position: absolute;
+width: 904px;
+height: 110px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 55px;
+/* or 110% */
+text-align: center;
+
+color: #4C6E7B;
+
+
+
+/* Eu não gostei desse livro, por assim e assado motivo. */
+
+position: absolute;
+width: 904px;
+height: 110px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 55px;
+/* or 110% */
+text-align: center;
+
+color: #4C6E7B;
+
+
+
+/* Cicrano de tal */
+
+position: absolute;
+width: 334px;
+height: 70px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 58px;
+line-height: 70px;
+/* identical to box height */
+text-align: center;
+
+color: #1E1E1E;
+
+
+
+/* user_17740782 2 */
+
+position: absolute;
+width: 108px;
+height: 112px;
+
+background: url(user_17740782);
+
+
+/* Mask group */
+
+position: absolute;
+width: 1084px;
+height: 867px;
+
+
+
+/* Rectangle 40 */
+
+position: absolute;
+width: 1084px;
+height: 867px;
+
+background: #D9D9D9;
+border-radius: 20px;
+
+
+/* alguem segurando um livro ai 1 */
+
+position: absolute;
+width: 1221px;
+height: 917px;
+
+background: url(alguem segurando um livro ai);
+
+
+/* Beltrano de tal */
+
+position: absolute;
+width: 359px;
+height: 70px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 58px;
+line-height: 70px;
+/* identical to box height */
+text-align: center;
+
+color: #1E1E1E;
+
+
+
+/* user_17740782 3 */
+
+position: absolute;
+width: 108px;
+height: 112px;
+
+background: url(user_17740782);
+
+
+/* Mask group */
+
+position: absolute;
+width: 1084px;
+height: 867px;
+
+
+
+/* Rectangle 40 */
+
+position: absolute;
+width: 1084px;
+height: 867px;
+
+background: #D9D9D9;
+border-radius: 20px;
+
+
+/* alguem segurando um livro ai 1 */
+
+position: absolute;
+width: 1221px;
+height: 917px;
+
+background: url(alguem segurando um livro ai);
+
+
+/* Rectangle 41 */
+
+position: absolute;
+width: 1143.94px;
+height: 762.63px;
+
+background: rgba(80, 134, 153, 0.4);
+border-radius: 20px;
+transform: rotate(0.2deg);
+
+
+/* upload_15501890 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 200px;
+height: 200px;
+
+background: url(upload_15501890.png);
+border: 3px solid #000000;
+border-radius: 20px;
+
+
+/* Clique aqui para enviar um arquivo do seu computador. */
+
+position: absolute;
+width: 848px;
+height: 140px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 60px;
+line-height: 70px;
+/* or 117% */
+text-align: center;
+
+color: #1E1E1E;
+
+
+
+/* letter-x_7437001 1 */
+
+position: absolute;
+width: 50px;
+height: 50px;
+
+background: url(letter-x_7437001.png);
+
+
+/* Rectangle 42 */
+
+position: absolute;
+width: 1143.94px;
+height: 69.29px;
+
+background: rgba(80, 134, 153, 0.4);
+border-radius: 20px;
+transform: rotate(0.2deg);
+
+
+/* Carregando... */
+
+position: absolute;
+width: 848px;
+height: 70px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 70px;
+/* identical to box height, or 140% */
+text-align: center;
+
+color: #1E1E1E;
+
+
+
+/* Rectangle 43 */
+
+position: absolute;
+width: 1143.94px;
+height: 69.29px;
+
+background: #508699;
+border-radius: 20px;
+transform: rotate(0.2deg);
+
+
+/* Upload concluído! */
+
+position: absolute;
+width: 848px;
+height: 70px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 60px;
+line-height: 70px;
+/* identical to box height, or 117% */
+text-align: center;
+
+color: #1E1E1E;
+
+
+
+/* Rectangle 44 */
+
+position: absolute;
+width: 1143.94px;
+height: 762.63px;
+
+background: rgba(80, 134, 153, 0.4);
+border-radius: 20px;
+transform: rotate(0.2deg);
+
+
+/* Mask group */
+
+position: absolute;
+width: 602.64px;
+height: 482px;
+
+
+
+/* Rectangle 40 */
+
+position: absolute;
+width: 602.64px;
+height: 482px;
+
+background: #D9D9D9;
+border-radius: 20px;
+
+
+/* alguem segurando um livro ai 1 */
+
+position: absolute;
+width: 678.8px;
+height: 509.8px;
+
+background: url(alguem segurando um livro ai);
+
+
+/* Rectangle 45 */
+
+position: absolute;
+width: 170px;
+height: 64px;
+
+background: rgba(225, 245, 255, 0.6);
+border-radius: 20px;
+
+
+/* Postar */
+
+position: absolute;
+width: 140px;
+height: 60px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 60px;
+/* identical to box height */
+
+color: #1E1E1E;
+
+
+
+/* Escreva aqui... */
+
+position: absolute;
+width: 133px;
+height: 27px;
+
+font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 27px;
+
+color: #E1F5FF;
+
+
+
+/* 0/150 */
+
+position: absolute;
+width: 54px;
+height: 27px;
+
+font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 27px;
+
+color: #E1F5FF;
+
+
+
+/* Rectangle 46 */
+
+position: absolute;
+width: 217px;
+height: 64px;
+
+background: rgba(225, 245, 255, 0.6);
+border-radius: 20px;
+
+
+/* Cancelar */
+
+position: absolute;
+width: 179px;
+height: 60px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 60px;
+/* identical to box height */
+
+color: #1E1E1E;
+
+
+
+/* Deseja fazer o upload desse arquivo? */
+
+position: absolute;
+width: 911px;
+height: 72px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 60px;
+line-height: 72px;
+/* identical to box height */
+
+color: #1E1E1E;
+
+
+
+/* Line 7 */
+
+position: absolute;
+width: 424px;
+height: 0px;
+
+border: 4px solid #E1F5FF;
+transform: rotate(0.27deg);
+
+
+/* Line 8 */
+
+position: absolute;
+width: 424px;
+height: 0px;
+
+border: 4px solid #E1F5FF;
+transform: rotate(0.27deg);
+
+
+/* Line 9 */
+
+position: absolute;
+width: 424px;
+height: 0px;
+
+border: 4px solid #E1F5FF;
+transform: rotate(0.27deg);
+
+
+/* Line 10 */
+
+position: absolute;
+width: 424px;
+height: 0px;
+
+border: 4px solid #E1F5FF;
+transform: rotate(0.27deg);
+
+
+/* Line 11 */
+
+position: absolute;
+width: 424px;
+height: 0px;
+
+border: 4px solid #E1F5FF;
+transform: rotate(0.27deg);
+
+
+/* Line 12 */
+
+position: absolute;
+width: 424px;
+height: 0px;
+
+border: 4px solid #E1F5FF;
+transform: rotate(0.27deg);
+
+
+/* Line 13 */
+
+position: absolute;
+width: 424px;
+height: 0px;
+
+border: 4px solid #E1F5FF;
+transform: rotate(0.27deg);
+
+
+/* Rectangle 51 */
+
+position: absolute;
+width: 295px;
+height: 1080px;
+
+background: #508698;
+
+
+/* x_3522759 1 */
+
+position: absolute;
+width: 50px;
+height: 50px;
+
+background: url(x_3522759.png);
+
+
+/* Seu perfil */
+
+position: absolute;
+width: 192px;
+height: 60px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 60px;
+/* identical to box height */
+text-align: center;
+
+color: #1E1E1E;
+
+
+
+/* Ranking */
+
+position: absolute;
+width: 164px;
+height: 60px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 60px;
+/* identical to box height */
+text-align: center;
+
+color: #1E1E1E;
+
+
+
+/* Ajustes */
+
+position: absolute;
+width: 163px;
+height: 60px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 60px;
+/* identical to box height */
+text-align: center;
+
+color: #1E1E1E;
+
+
+
+/* Sair */
+
+position: absolute;
+width: 79px;
+height: 60px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 60px;
+/* identical to box height */
+text-align: center;
+
+color: #1E1E1E;
+
+
+
+/* Início */
+
+position: absolute;
+width: 153px;
+height: 84px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 70px;
+line-height: 84px;
+/* identical to box height */
+text-align: center;
+
+color: #1E1E1E;
+
+
+
+/* Retirada */
+
+position: absolute;
+width: 247px;
+height: 84px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 70px;
+line-height: 84px;
+/* identical to box height */
+text-align: center;
+
+color: #1E1E1E;
+
+
+
+/* Devoluções */
+
+position: absolute;
+width: 334px;
+height: 84px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 70px;
+line-height: 84px;
+/* identical to box height */
+text-align: center;
+
+color: #1E1E1E;
+
+
+
+/* Comunidade */
+
+position: absolute;
+width: 360px;
+height: 108px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 70px;
+line-height: 84px;
+text-align: center;
+
+color: #1E1E1E;
+
+
+
+/* retangulo de pesquisa */
+
+position: absolute;
+width: 844px;
+height: 79px;
+
+background: rgba(80, 134, 152, 0.4);
+border-radius: 40px;
+
+
+/* ui-element_15768373 4 */
+
+position: absolute;
+width: 52px;
+height: 52px;
+
+background: url(ui-element_15768373.png);
+
+
+/* Pesquisar... */
+
+position: absolute;
+width: 224px;
+height: 60px;
+
+font-family: 'Coolvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 60px;
+/* identical to box height */
+text-align: center;
+
+color: #1E1E1E;
+
+
+
+/* Line 15 */
+
+position: absolute;
+width: 165px;
+height: 0px;
+
+border: 5px solid #1E1E1E;
