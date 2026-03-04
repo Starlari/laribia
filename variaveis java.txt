@@ -1,0 +1,20 @@
+public class Main {
+     public static void main(String[]args){
+         
+         String nome = "LariBia";
+         int idade = 17;
+         long quantidade_estrelas= 400000000000L;
+         float altura = 1.56f;
+         double peso = 62;
+         char sexo = 'F';
+         boolean rica = true;
+         System.out.println("Meu nome:"+ nome);
+         System.out.println("Minhha idade:"+ idade);
+         System.out.println("Quantidade de estrelas:"+ quantidade_estrelas);
+         System.out.println("Minha altura:"+ altura);
+         System.out.println("Meu peso:"+ peso);
+         System.out.println("Meu gênero:"+ sexo);
+         System.out.println("Sou rica?"+ rica);
+     }
+     
+}
