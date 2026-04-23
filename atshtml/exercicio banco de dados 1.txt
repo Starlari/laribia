@@ -1,0 +1,25 @@
+P1
+
+1:Maria,22,administracao,8.5
+
+2:Maria estudante de administração de 22 anos obteve nota de 8,5 na avaliação ,indicando um alto desempenho acadêmico.
+
+3:
+
+
+P2
+
+1:alta redundância e inconsistência de dados. 
+
+2:velocidade,estabilidade e integridade. 
+
+3:o SGBD transforma dados espalhados e uma fonte única de verdade ,garantindo que as informações pessoais , acadêmicas e financeiras estejam organizadas de forma segura e interligadas.
+
+P3
+
+1:Relacional
+
+2:Porque o modelo relacional organiza dados em tabelas compostas por linhas r colunas ,garantindo integridade e facilidade de consultas via SQL.
+
+3:id_turma:3
+

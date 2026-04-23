@@ -1,0 +1,12 @@
+public class Main {
+    public static void main(String[]args){
+    float n1 = 5;
+    float n2 = 2;
+    float n3 = 3;
+    float n4 = 6;
+    System.out.println("Resultado verdadeiro ou falso? " + (n1 > n2 && n3 < n4));
+    System.out.println("Resultado verdadeiro ou falso? "+ (n1 == n2 || n3 < n4));
+    System.out.println("Resultado verdadeiro ou falso? "+ !(n1 == n2));
+    System.out.println("Resultado verdadeiro ou falso? "+ (true ^ false));
+    }
+}

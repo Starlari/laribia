@@ -1,0 +1,18 @@
+import java.util.Scanner;
+
+public class Main
+{
+	public static void main(String[] args) {
+	Scanner input = new Scanner(System.in);
+	System.out.print("Digite o primeiro númmero: ");
+	int num1 = input.nextInt();
+	System.out.print("Digite o segundo número: ");
+	int num2 = input.nextInt();
+	boolean ambosPares = (num1 % 2 == 0) && (num2 % 2 == 0);
+	boolean somaMaior50 = (num1 + num2) > 50;
+	boolean diferentes = num1 != num2;
+	boolean algumPositivo = num1 > 0 || num2 > 0;
+	boolean todasCondicoes = ambosPares && somaMaior50 && diferentes && algumPositivo;
+	System.out.println("Atende a todas as condições? "+ todasCondicoes);
+	}
+}

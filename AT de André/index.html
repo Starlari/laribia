@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title>TechStore</title>
+    <link rel="stylesheet" href="style.css"> 
+</head>
+<body>
+    <h1>TechStore</h1>
+    <p id="saida"></p>
+    <p id="total"></p>
+    <div id="resultado"></div>
+    <script>
+        
+        // PARTE 1 - VARIÁVEIS E TIPOS
+
+        let nomeDoCliente = ("Larissa");
+        let idade = (17);
+        let ativo = true;
+        let lista = ["celulares", "notebooks", "acessórios"];
+        let objetoCliente = {nome: "Beatriz", idade: 17};
+        
+        console.log(typeof nomeDoCliente); // string
+        console.log(typeof idade); // number
+        console.log(typeof ativo); // boolean (nesse caso, true)
+        console.log(typeof lista); // object
+        console.log(typeof objetoCliente); // object
+
+        // PARTE 2 - DECLARAÇÃO DE VARIÁVEIS
+
+        function nomeVar() {
+        var nome = "Bezerra";
+        console.log(nome); // variável var
+        }
+        nomeVar()
+
+        {
+            let idade = 17;
+            console.log(idade); // variável let
+        }
+
+        {
+            const preco = 999.99;
+            console.log(preco);
+        }
+
+        // PARTE 3 - PADRÃO CAMEL CASE
+
+        {
+        let nomeCompletoCliente = ("Larissa Beatriz Bezerra Cavalcanti");
+        console.log(nomeCompletoCliente); // Camel Case porque existem mais de 1 palavra para a variável
+        let totalCompra = 1999.99;
+        console.log(totalCompra);
+        }
+
+        // PARTE 4 - ESCOPO
+
+        {
+            var loja = "TechStore";
+            function mostrarLoja() {
+                console.log(loja); // Vai mostrar o nome da loja, que nesse caso é TechStore
+            }
+            mostrarLoja();
+        }
+        {
+            var lojaLocal = "Apenas acessórios";
+            function mostrarLojaLocal(){
+                console.log(lojaLocal);
+            }
+            mostrarLojaLocal();
+        }
+
+        // PARTE 5 - REATRIBUIÇÃO vs REDEFINIÇÃO
+
+        {
+            let produto = "Notebook";
+            produto = "Celular"; // Reatribuição
+        }
+
+        {
+            let produto = "Tablet";
+            let produto = "Notebook"; // Não redefine porque está no mesmo escopo
+        }
+
+        {
+            var produto = "Tablet";
+            var produto = "Celular";
+            produto = "Notebook"; // o var reatribui e redefine
+        }
+
+        {
+            const preco = 89.90;
+            const = 90; // A varável const não funciona para reatribuição e nem para redefinir, por isso que dá erro
+        }
+
+        // PARTE 6 - CONCATENAÇÃO E INTERPOLAÇÃO
+
+        let nome = "João";
+        let produto = "notebook";
+        let preco = 3000;
+        console.log(`Cliente ${nome} comprou um ${produto} por R$${preco}`); // Exemplo de interpolação
+
+        {
+            let nome = "João";
+            let sobrenome = "Silva";
+            let nomeCompleto = nome + " " + sobrenome;
+            console.log(nomeCompleto);
+        } // Exemplo de Concatenação
+
+        // PARTE 7 - MANIPULAÇÃO DE NÚMEROS
+
+        {let preco = 99.9876;
+            console.log(preco.toFixed(2)); // O preço vai ser arredondado para 2 casas decimais
+        } 
+
+        // PARTE 8 - STRINGS
+
+        let linguagemDaLoja = "JavaScript na TechStore";
+        console.log(linguagemDaLoja.length); // Tamanho da string (linguagemDaLoja)
+        console.log(linguagemDaLoja.toUpperCase()); // Todas as letras maiúsculas
+        console.log(linguagemDaLoja.toLowerCase()); // Todas as letras minúsculas
+        console.log(linguagemDaLoja.trim()); // Remover espaços laterais
+        console.log(linguagemDaLoja.includes("TechStore")); // True (verdadeiro)
+
+        // PARTE 9 - DATAS
+
+        let dataAtual = new Date ();
+        console.log(dataAtual.toString()); // Data, hora e ano atuais (no gdb, roda em horário internacional)
+
+        // PARTE 10 - MATH
+
+        {
+            let preco = 199.99;
+            console.log(Math.round(preco)); // arendonda pra 200
+            console.log(Math.random()) // número aleatório entre 0 e 1
+            console.log(Math.max(90, 100, 1000)) // mostra o maior valor entre os três
+        }
+
+        // PARTE 11 - SAÍDA DE DADOS
+
+        let nomeCompletoCliente = prompt("Digite o seu nome completo: "); // Prompt para digitar o nome
+        alert("Olá, " + nomeCompletoCliente); // Abre outro pop-up
+        console.log("Nome digitado: " + nomeCompletoCliente);
+        document.write("Bem-vindo(a), " + nomeCompletoCliente + "!");
+        document.getElementById("saida").innerHTML = "Acessado"; // Aparece assim que você acessa ao site
+        let valorTotalCompra = prompt("Digite o valor total da sua compra: ");
+        console.log("O valor da sua compra foi de: " + valorTotalCompra);
+        document.getElementById("total").innerHTML = "Compra realizada!"
+
+        // PARTE 12 - INTERAÇÃO COM HTML
+
+        {
+            document.getElementById("resultado").innerHTML = "Compra finalizada com sucesso!"; // Vai aparecer o resultado que está após o innerHTML
+        }
+
+        // PARTE 13 - CARACTERES ESPECIAIS
+
+        {
+        let info = "\"Nome: João\"\nLocal: C:\\TechStore\\Pedidos";
+        console.log(info); // Resultado: "Nome: João" Local: C:\TechStore\Pedidos
+        }
+
+        // PARTE 14 - CONDICIONAIS
+
+        {
+            let idade = 17;
+            if (idade >= 18){
+                console.log("Cliente maior de idade"); // If e Else simples
+            }
+        }
+         {
+            let idade = 17;
+            if (idade >= 18){
+                console.log("Cliente ativo"); // Se for maior de 18, aparece esse
+            }
+            else{
+                console.log("Cliente inativo"); // Se for menor de 18, aparece esse
+            }
+         }
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bem vindo ao meu site! :D</title>
+    <link rel="stylesheet" href="">
+</head>
+<body>
+    <h1>Me chamo LariBia</h1>
+    <h2>Tenho 17 anos</h2>
+    <h3>Sou estudante de escola técnica</h3>
+    <h4>Sou do 3° ano do médio</h4>
+    <h5>É isso ai, obrigada pelas aulas Chico :D</h5>
+</body>
+</html>
+
+
+

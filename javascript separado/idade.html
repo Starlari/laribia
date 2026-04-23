@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Idade</title>
+</head>
+<body>
+    <div>
+    <input type="number" id="idade" placeholder="Insira sua idade"> <br>
+    <button id="Confirmaridade" onclick="Confirmaridade()">Confirmar idade</button>
+    <p>Você é: <span id="idade"></span></p>
+    </div>
+
+    <script>
+        function Confirmaridade(){
+            var idade;
+            idade = document.getElementById('Confirmaridade').value
+
+            if (idade <= 12){
+                console.log(Criança)
+            }
+            else (idade >= 18){
+                console.log(Jovem)
+            }
+        }
+    </script>
+</body>
+</html>
