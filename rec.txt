@@ -1,0 +1,10 @@
+Site de Floricultura
+
+
+Requisitos funcionais: Cadastro de clientes, catálogos de produtos e processos de transações (opção para comprar flores/plantas dentro do site)
+
+Requisitos não funcionais: Desempenho rápido, usabilidade e segurança
+
+Requisitos de usuário: Feedbacks, funcionalidades e restrições
+
+Requisitos de negócios: Aumentar faturamento da empresa, melhorar eficiência dos negócios internos e regra de negócios 
