@@ -1,0 +1,10 @@
+let nota = 6;
+if (nota >= 8){
+    console.log("Felicidade pura");
+}
+else if (nota >= 6){
+    console.log("Sentimento neutro");
+}
+else{
+    console.log("Vontade de chorar");
+}

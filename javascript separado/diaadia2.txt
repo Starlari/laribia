@@ -1,0 +1,3 @@
+let editor = "AlightMotion";
+let pratica = (editor === "AlightMotion") ? "Consigo editar " : "Não edito";
+console.log(pratica);
