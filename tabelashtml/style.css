@@ -9,3 +9,7 @@ td {
     color: #233338;
     background-color: #d7c9eb
 }
+table {
+    text-align: center;
+    border-radius: 25;
+}
